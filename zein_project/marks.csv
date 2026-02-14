@@ -1,0 +1,8 @@
+Name,Math,English,Science,student,subject,marks
+John,45.0,50.0,40.0,,,
+Mary,78.0,80.0,75.0,,,
+Alex,60.0,55.0,65.0,,,
+,,,,john,english,57.0
+,,,,student1,english,56.0
+,,,,student1,math,59.0
+,,,,student1,chemistry,80.0
